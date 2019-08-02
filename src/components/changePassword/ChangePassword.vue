@@ -146,7 +146,7 @@
         <h2>Pin Alterada com Sucesso</h2>
         <span>Seu PIN foi alterado com sucesso.</span>
         <div>
-          <router-link to="/Profile">< voltar</router-link>
+          <router-link to="/">< voltar</router-link>
         </div>
       </div>
     </div>
