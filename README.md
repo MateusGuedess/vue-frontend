@@ -1,4 +1,4 @@
-# teste
+# COLONYBIT
 
 > A Vue.js project
 
