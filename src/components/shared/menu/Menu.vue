@@ -26,7 +26,7 @@ export default {
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
-    height: 80px;
+    height: 100%;
     box-shadow: 0px 6px 4px black;
     margin-bottom: -3.11%;
   }
